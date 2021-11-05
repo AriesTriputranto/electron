@@ -38,4 +38,4 @@ jobs:
           echo test, and deploy your project.
 
 # Pdf provides various needs
-https://en.wikipedia.org/Wiki/Readme.md
+https://en.wikipedia.org/wiki/Readme.md
